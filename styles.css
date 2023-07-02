@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(138, 138, 202);
+    margin: 0;
+}
+
+.header {
+    padding-top: 25px;
+}
+
+.title {
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(29, 28, 26);
+
+}
+
+.topnav {
+    background-color: darkslategray;
+    margin: 0;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+.navlink {
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+
+.header {
+    background-image: url(./images/goose-creek.JPG);
+    background-size: cover;
+    height: auto;
+    width: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.about {
+    line-height: 20px;
+}
