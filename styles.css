@@ -21,6 +21,7 @@ body {
     margin: 0;
     padding-bottom: 2px;
     padding-top: 2px;
+    padding-left: 20px;
 }
 
 .navlink {
@@ -30,7 +31,7 @@ body {
 }
 
 .header {
-    background-image: url(./images/goose-creek.JPG);
+    background-image: url(./images/goose-creek.webp);
     background-size: cover;
     height: auto;
     width: auto;
@@ -40,4 +41,15 @@ body {
 
 .about {
     line-height: 20px;
+    padding-left: 10px;
+}
+
+.welcome {
+    line-height: 20px;
+    padding-left: 10px;
+}
+
+.hobbies {
+    line-height: 20px;
+    padding-left: 10px;
 }
