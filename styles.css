@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(138, 138, 202);
+    background-color: white;
     margin: 0;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 .topnav {
-    background-color: darkslategray;
+    background-color: #c00;
     margin: 0;
     padding-bottom: 2px;
     padding-top: 2px;
